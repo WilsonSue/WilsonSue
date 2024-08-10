@@ -69,5 +69,5 @@ Howdy👋! I'm Wilson, a software engineer who specializes in Shell/POSIX progra
 
 <details>
     <summary>Github Stats 🔥</summary>
-    <img align="left" alt="Wilson's Github Stats" src="github-readme-stats-puce-six-75.vercel.app/api?username=WilsonSue&show_icons=true&hide_border=true" />    
+    <img align="left" alt="Wilson's Github Stats" src="https://github-readme-stats-puce-six-75.vercel.app/api?username=WilsonSue&show_icons=true&hide_border=true" />    
 </details>
