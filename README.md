@@ -67,3 +67,7 @@ Howdy👋! I'm Wilson, a software engineer who specializes in Shell/POSIX progra
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+<details>
+    <summary>Github Stats 🔥</summary>
+    <img align="left" alt="Wilson's Github Stats" src="github-readme-stats-puce-six-75.vercel.app/api?username=WilsonSue&show_icons=true&hide_border=true" />    
+</details>
